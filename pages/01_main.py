@@ -664,32 +664,19 @@ def country_html(iso_a3, size=22, font_size=14, bold=False):
 
 def get_top_countries(company, n=3):
     """
-    추천 후보국 1~n위: src/dashboard_score/dashboard_score.py 결과
-    (02_company '2026년 수출 유망 국가 TOP 10'의 기본 결과와 같은 순서)
+    dashboard_score.py에서 계산한 기업별 기본 CRITIC 가중치
+    TOP 10 결과 중 상위 n개 국가를 반환.
 
-    스크립트를 실행할 수 없을 때만 예전 임시 기준
-    (기업 무기분류의 최근 5년 도입 TIV 상위국, 수출통제국 제외)으로 표시.
+    02_company의 사용자 커스텀 가중치는 반영하지 않음.
     """
-    try:
-        result = top_countries(company, n)
-        if result:
-            return [row["iso_a3"] for row in result]
-    except Exception:
-        pass
-
-    groups = COMPANY_INFO[company]["weapon_groups"]
-
-    by_country = (
-        recent[
-            recent["group"].isin(groups)
-            & ~recent["recipient"].isin(RESTRICTED_ISO)
-        ]
-        .groupby("recipient")["tiv"]
-        .sum()
-        .sort_values(ascending=False)
+    result = top_countries(
+        company,
+        n=n,
+        weights=None
     )
 
-    return by_country.head(n).index.tolist()
+    return [row["iso_a3"] for row in result]
+
 
 
 # =========================================================
@@ -1048,7 +1035,7 @@ with left_column:
         for index, (company, code) in enumerate(COMPANIES.items()):
 
             info = COMPANY_INFO[company]
-            top_countries = get_top_countries(company)
+            top3_countries = get_top_countries(company)
 
             border = line if index < len(COMPANIES) - 1 else ""
 
@@ -1060,7 +1047,7 @@ with left_column:
                 f'<span style="font-size:13px; font-weight:500; line-height:1.2; white-space:nowrap;">'
                 f'{escape(str(name_ko.get(iso, iso)))}</span>'
                 f'</span>'
-                for iso in top_countries
+                for iso in top3_countries
             ]
             country_cells += [""] * (3 - len(country_cells))   # 3개 미만이면 빈칸
 
