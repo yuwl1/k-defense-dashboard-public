@@ -4,6 +4,8 @@ venv/
 
 # í™˜ê²½ë³€ìˆ˜ / API Key
 .env
+.env.*
+!.env.example
 
 # Python ì„ì‹œ íŒŒì¼
 __pycache__/
@@ -24,9 +26,5 @@ data/processed/arms_trade_98_countries.csv
 # LibreOffice ì„ì‹œ ì ê¸ˆ íŒŒì¼ ì œì™¸
 .~lock.*#
 
-# Ãß°¡ È¯°æº¯¼ö ÆÄÀÏ
-.env.*
-!.env.example
-
-# Streamlit ºñ¹ĞÁ¤º¸
+# Streamlit 
 .streamlit/secrets.toml
