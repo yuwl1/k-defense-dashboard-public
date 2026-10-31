@@ -1,0 +1,22 @@
+﻿item,result,detail
+Target year columns exist (2015~2025),PASS,2015~2025 (11 years)
+Both sheets list the same entities,PASS,
+No duplicate entity names in raw data,PASS,
+Expenditure row count matches,PASS,"raw numeric cells 1,693 = converted 1,693 (after removing aggregates 1,689)"
+GDP-share row count matches,PASS,"raw numeric cells 1,703 = converted 1,703 (after removing aggregates 1,703)"
+Expenditure values: all rows match (raw US$ m x 1e6),PASS,"1,689 compared, 0 mismatches"
+GDP-share values: all rows match (raw ratio x 100),PASS,"1,703 compared, 0 mismatches"
+Countries in result + dropped countries = raw country rows (expenditure),PASS,157 + 16 = 173
+Every year has data,PASS,11 years
+Country count per year is stable (max - min <= 10),PASS,max 155 / min 151
+"No duplicate (sipri_country_name, year)",PASS,
+No missing values,PASS,
+No negative values,PASS,
+No leading/trailing spaces in names,PASS,
+Years within 2015~2025,PASS,
+US 2024 expenditure is in US$ (0.5 ~ 2 trillion),PASS,"1,004,901,000,000"
+South Korea 2024 expenditure is in US$ (30 ~ 80 billion),PASS,"47,604,584,212"
+US 2024 GDP share is in % (1 ~ 10),PASS,3.43%
+GDP share within 0~100%,PASS,min 0.0000 / median 1.45 / max 39.56
+No floating-point noise in GDP share (6 decimals),PASS,
+SIPRI expenditure names in the master match the raw data,PASS,

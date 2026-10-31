@@ -1,0 +1,99 @@
+# %%
+import io
+import pandas as pd
+
+SUPPLIER_FILE = "../../data/analysis/tiv_supplier_for_analysis.csv"
+WEAPON_FILE = "../../data/analysis/tiv_weapon_type_for_analysis.csv"
+YEARS = [str(y) for y in range(2016, 2026)]
+
+# %%
+# 파일을 글자 그대로 읽어서 줄 단위로 나누기
+lines = open(SUPPLIER_FILE, encoding="utf-8-sig").read().splitlines()
+
+blocks = []
+cur = None
+for line in lines:
+    if line.startswith("Supplier,"):
+        cur = [line]
+    elif cur is not None:
+        if line.strip() == "":
+            blocks.append(cur)
+            cur = None
+        else:
+            cur.append(line)
+
+print(len(blocks))
+# %%
+b = blocks[0]                                        # 먼저 첫 번째 블록으로 연습
+df = pd.read_csv(io.StringIO("\n".join(b)))
+df = df.rename(columns={"Supplier": "supplier"})
+
+is_total = df["supplier"].str.startswith("Total exports to")
+recipient = df.loc[is_total, "supplier"].iloc[0].replace("Total exports to ", "")
+
+df = df[~is_total].copy()                            # 합계 줄 제거
+df.insert(0, "recipient", recipient)                 # 수입국 열 추가
+
+# %%
+parts = []
+for b in blocks:
+    df = pd.read_csv(io.StringIO("\n".join(b)))
+    df = df.rename(columns={"Supplier": "supplier"})
+    is_total = df["supplier"].str.startswith("Total exports to")
+    recipient = df.loc[is_total, "supplier"].iloc[0].replace("Total exports to ", "")
+    df = df[~is_total].copy()
+    df.insert(0, "recipient", recipient)
+    parts.append(df)
+
+wide = pd.concat(parts, ignore_index=True)
+# %%
+years = [str(y) for y in range(2016, 2026)]
+
+for y in years:
+    wide[y] = pd.to_numeric(wide[y].astype(str).str.strip(), errors="coerce")
+wide[years] = wide[years].fillna(0)
+
+long = wide.melt(
+    id_vars=["recipient", "supplier"],
+    value_vars=years,
+    var_name="year",
+    value_name="tiv",
+)
+long["year"] = long["year"].astype(int)
+
+# %%
+master = pd.read_csv("../../data/mapping/country_map_master.csv")
+m = master[["sipri_trade_country_name", "iso_a3"]]
+
+long = long.merge(
+    m.rename(columns={"sipri_trade_country_name": "recipient", "iso_a3": "recipient_iso"}),
+    on="recipient", how="left",
+)
+long = long.merge(
+    m.rename(columns={"sipri_trade_country_name": "supplier", "iso_a3": "supplier_iso"}),
+    on="supplier", how="left",
+)
+
+# 매핑 안 된 국가 확인
+print(long.loc[long["recipient_iso"].isna(), "recipient"].unique())
+print(long.loc[long["supplier_iso"].isna(), "supplier"].unique())
+# %%
+
+
+# %%
+if __name__ == "__main__":
+    supplier = parse_sipri_blocks(SUPPLIER_FILE, "Supplier,", "supplier")
+    weapon = parse_sipri_blocks(WEAPON_FILE, ",2016", "weapon_type")
+
+    print("공급국별:", supplier.shape, "수입국 수:", supplier["recipient"].nunique())
+    print("무기타입별:", weapon.shape, "수입국 수:", weapon["recipient"].nunique())
+
+    # 검증: 두 파일의 수입국별 총합은 반올림 오차 정도만 차이나야 한다
+    chk = (
+        supplier.groupby("recipient")["tiv"].sum()
+        - weapon.groupby("recipient")["tiv"].sum()
+    ).abs()
+    print("두 파일 총합 최대 차이:", chk.max())
+
+    supplier.to_csv("tiv_supplier_clean.csv", index=False, encoding="utf-8-sig")
+    weapon.to_csv("tiv_weapon_clean.csv", index=False, encoding="utf-8-sig")

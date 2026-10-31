@@ -1,0 +1,116 @@
+﻿recipient_iso_a3,order_year,order_year_uncertain,supplier_iso_a3,ordered_qty,ordered_qty_uncertain,weapon,company,weapon_type_group_en,delivered_qty,delivered_qty_uncertain,delivery_years,status,comments,tiv_per_unit,tiv_order,tiv_delivered
+ARE,2020,True,KOR,100.0,True,LOGIR,LIG Nex1,missiles_guided_weapons,100.0,True,2023; 2024,New,For Stan Patrol-5009 (Shujaa) patrol craft,0.01,1.0,1.0
+ARE,2021,True,KOR,36.0,True,K-239 Chunmoo,Hanwha Aerospace,artillery,32.0,True,2021; 2022; 2023; 2024,New,AED3 b ($810 m) deal,2.2,79.2,70.4
+ARE,2022,False,KOR,1000.0,True,Cheongung,LIG Nex1,missiles_guided_weapons,400.0,True,2024; 2025,New,Cheongung Block-2 version; for Cheongung-2 air-defence systems,0.6,600.0,240.0
+ARE,2022,False,KOR,10.0,True,Cheongung,LIG Nex1,air_defence_systems,4.0,True,2024; 2025,New,$3.5 b deal; Cheongung-2 version; delivery porbably planned 2024-2027/2028,30.0,300.0,120.0
+AUS,2004,False,KOR,1.0,False,Delos,HD Hyundai Heavy Industries,ships,1.0,False,2006,New,AUD50 m ($35 m) deal (modified for AUD60 m in Australia to replenishment tanker); Australian designation Sirius,30.0,30.0,30.0
+AUS,2021,False,KOR,30.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,2.0,False,2025,New,AUD1 b ($667 m) 'Land-8116' Phase-1 programme; incl 28 produced under licence in Australia; Australian designation AS-9 Huntsman; delivery planned 2025-2027,4.5,135.0,9.0
+AUS,2021,False,KOR,15.0,False,K-10,Hanwha Aerospace,armoured_vehicles,1.0,False,2025,New,Part of AUD1 b ($667 m) 'Land-8116' Phase-1 programme; inl 14 produced under licence in Australia; Australian designation AS-10 Huntsman; delivery planned 2025-2027,0.55,8.25,0.55
+AUS,2023,False,KOR,129.0,False,K-21,Hanwha Aerospace,armoured_vehicles,,False,,New,AUD7.3 b ($4.5-5 b) 'Project Land-400' or 'Mounted Close Combat Capability'; AS-21 Redback version; incl production under licence in Australia; delivery planned 2027-2028,1.7,219.3,0.0
+BGD,1995,False,KOR,1.0,False,Sea Dragon,HD Hyundai Heavy Industries,ships,1.0,False,1997,New,Bangladeshi designation Madhumati,25.25,25.25,25.25
+BGD,1998,False,KOR,1.0,False,DW-2000H,Hanwha Ocean,ships,1.0,False,2001,New,$100 m deal; Bangladeshi designation Bangabandhu,180.0,180.0,180.0
+COL,2012,False,KOR,16.0,False,C-STAR,LIG Nex1,missiles_guided_weapons,16.0,True,2015,New,$90 m deal; for FS-1500 frigates,1.0,16.0,16.0
+COL,2019,True,KOR,4.0,False,C-STAR,LIG Nex1,missiles_guided_weapons,4.0,False,2020,Second hand,Probably second-hand; for Po Hang (Almirante Tono) corvette,0.4,1.6,1.6
+EGY,2022,False,KOR,216.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,7.0,True,2023; 2025,New,KRW2 tr ($1.7 b) deal; K-9A1 version; incl production under licence in Egypt and technology transfers; delivery planned by 2028,4.34,937.44,30.38
+EGY,2022,False,KOR,,False,K-10,Hanwha Aerospace,armoured_vehicles,1.0,True,2023,New,Part of KRW2 tr ($1.7 b) deal; K-10A1EGY version; for use with K-9 self-propelled guns; incl production under licence in Egypt and technology transfers,0.55,0.0,0.55
+EST,2018,False,KOR,24.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,24.0,True,2020; 2021; 2022; 2023,Second hand,EUR83 m deal; second-hand; designated Kou by Estonia,1.8,43.2,43.2
+EST,2023,False,KOR,12.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,Second hand,Second-hand; EUR36 m deal; designated Kou by Estonia; delivery planned 2026,1.8,21.6,0.0
+EST,2025,True,KOR,,False,K-239 Chunmoo,Hanwha Aerospace,artillery,,False,,New,Incl production of components in Estonia; selected but not yet ordered by end-2025,2.2,0.0,0.0
+FIN,2017,False,KOR,48.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,48.0,True,2018; 2019; 2020; 2021; 2022; 2023; 2024; 2025,Second hand,Second-hand; EUR146 m deal,1.8,86.4,86.4
+FIN,2022,True,KOR,5.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,New,Possibly second-hand; EUR30 m deal,4.5,22.5,0.0
+GBR,2012,False,KOR,4.0,False,Tide,Hanwha Ocean,ships,4.0,False,2017; 2018; 2019,New,GBP452 m deal ($560-605m; incl GBP150 m spend in UK incl design and production of components in UK); part of 'MARS' programme; UK designation Tide-class,134.0,536.0,536.0
+IDN,2001,False,KOR,7.0,False,KT-1 Woongbi,KAI,aircraft_uavs,7.0,False,2003; 2005,New,$60 m deal (offsets for South Korean order for CN-235 transport aircraft); KT-1B version,1.9,13.3,13.3
+IDN,2003,True,KOR,20.0,False,Barracuda,Hanwha Aerospace,armoured_vehicles,20.0,True,2004,New,For police,0.25,5.0,5.0
+IDN,2005,False,KOR,5.0,False,KT-1 Woongbi,KAI,aircraft_uavs,5.0,False,2007; 2008,New,Kt-1B version,1.9,9.5,9.5
+IDN,2005,True,KOR,8.0,False,KT-1 Woongbi,KAI,aircraft_uavs,8.0,True,2011; 2012,New,KT-1B version; assembled in Indonesia,1.9,15.2,15.2
+IDN,2009,False,KOR,22.0,False,Black Fox,Hanwha Aerospace,armoured_vehicles,22.0,True,2013; 2014,New,$70 m deal; Tarantula version; incl 11 produced under licence in Indonesia ,0.3,6.6,6.6
+IDN,2010,True,KOR,16.0,True,KF-21 Boramae,KAI,aircraft_uavs,,False,,New,KF-21 Block-21 version (originally 48 Block-1 planned in possibly $1.6 b deal incl Indonesia financing 7% of development cost and production of components and possibly assembly in Indonesia); designated IFX by Indonesia; selected but not yet ordered by end-2025,0.0,0.0,0.0
+IDN,2011,False,KOR,3.0,False,Type-209/1400,Hanwha Ocean,ships,3.0,False,2017; 2018; 2021,New,KRW1.3tr ($1.1-1.4 b) deal; incl 1 produced under licence in Indonesia; Indonesian designation Nagapasa,147.5,442.5,442.5
+IDN,2011,False,KOR,16.0,False,T-50 Golden Eagle,KAI,aircraft_uavs,16.0,False,2013; 2014,New,$400 m deal; T-50i version,20.0,320.0,320.0
+IDN,2012,False,KOR,150.0,True,Chiron,LIG Nex1,missiles_guided_weapons,150.0,True,2013; 2014; 2015,New,For use with Skyshield air-defence system,0.1,15.0,15.0
+IDN,2018,False,KOR,3.0,False,KT-1 Woongbi,KAI,aircraft_uavs,3.0,True,2021; 2022,New,KT-1B version,1.9,5.7,5.7
+IDN,2018,True,KOR,60.0,True,Chiron,LIG Nex1,missiles_guided_weapons,60.0,True,2020,New,For use with Skyshield air-defence system,0.1,6.0,6.0
+IDN,2021,False,KOR,6.0,False,T-50 Golden Eagle,KAI,aircraft_uavs,,False,,New,KRW274 b ($238 m) deal; T-50i version; delivery planned 2026,17.8,106.8,0.0
+IND,2017,False,KOR,100.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,100.0,True,2018; 2019; 2020; 2021,New,INR44 b ($646-700 m) deal; incl production under licence in India as K-9 Vajra-T,4.34,434.0,434.0
+IND,2025,False,KOR,100.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,New,INR76 b (USD900 m) deal; produced under licence in India as K-9 Vajra-T,4.5,450.0,0.0
+IRQ,2004,True,KOR,12.0,False,Barracuda,Hanwha Aerospace,armoured_vehicles,12.0,True,2005,New,,0.25,3.0,3.0
+IRQ,2013,False,KOR,24.0,False,T-50 Golden Eagle,KAI,aircraft_uavs,24.0,True,2016; 2017,New,$1.1 b deal (incl paid with oil; not including $0.9-1 b for 20 years support and training); T-50IQ version,17.8,427.2,427.2
+IRQ,2024,False,KOR,800.0,True,Cheongung,LIG Nex1,missiles_guided_weapons,,False,,New,Part of KRW3.7 tr ($2.8 b) deal for Cheongung Block-2 surface-to-air missile system,0.6,480.0,0.0
+IRQ,2024,False,KOR,8.0,False,Cheongung,LIG Nex1,air_defence_systems,,False,,New,KRW3.7 tr ($2.6-2.8 b) deal; Cheongung Block-2 version; delivery planned from 2028,30.0,240.0,0.0
+JOR,2009,False,KOR,20.0,False,Hanwha-70 70mm,Hanwha Aerospace,artillery,20.0,True,2012,New,For self-propelled MRL on Nimr light vehicle produced in Jordan,0.15,3.0,3.0
+MYS,1993,False,KOR,42.0,False,K-200 KIFV,Hanwha Aerospace,armoured_vehicles,42.0,True,1993,New,$25 m deal; for use with Malaysian UN forces in Bosnia; incl 4 mortar carrier; 2 recovery; 2 command post and 2 ambulance versions; designated MIFV by Malaysia,0.3,12.6,12.6
+MYS,1994,False,KOR,22.0,False,K-200 KIFV,Hanwha Aerospace,armoured_vehicles,22.0,False,1995,New,$13 m deal; incl 2 recovery; 1 command post and 1 ambulance versions; designated MIFV by Malaysia,0.3,6.6,6.6
+MYS,1995,False,KOR,47.0,False,K-200 KIFV,Hanwha Aerospace,armoured_vehicles,47.0,False,1995,New,$29 m deal; incl some command post version; designated MIFV by Malaysia,0.3,14.1,14.1
+MYS,2009,True,KOR,20.0,True,Barracuda,Hanwha Aerospace,armoured_vehicles,20.0,True,2009,New,For police,0.25,5.0,5.0
+MYS,2011,False,KOR,2.0,False,Gagah Samudera,Hanwha Ocean,ships,2.0,False,2017; 2018,New,MYR294 m ($95 m) deal; produced in Malaysia,40.0,80.0,80.0
+MYS,2023,False,KOR,18.0,False,FA-50 Block-20,KAI,aircraft_uavs,,False,,New,KRW1.2 tr ($920 m) 'LCA/LIFT' or 'FLIT' programme; option on 18 more; delivery planned from 2026,0.0,0.0,0.0
+NOR,2013,False,KOR,1.0,False,AEGIR-18R,Hanwha Ocean,ships,1.0,False,2018,New,NOK1.3 b ($157-220 m) deal (100% offsets); Norwegian designation Maud,114.0,114.0,114.0
+NOR,2017,False,KOR,6.0,False,K-10,Hanwha Aerospace,armoured_vehicles,6.0,False,2019; 2020,New,For use with K-9 self-propelled guns,0.39,2.34,2.34
+NOR,2017,False,KOR,24.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,24.0,False,2019; 2020,New,$383 m deal; designated VIDAR by Norway,4.34,104.16,104.16
+NOR,2022,False,KOR,8.0,False,K-10,Hanwha Aerospace,armoured_vehicles,8.0,False,2025,New,Delivery planned 2025,0.39,3.12,3.12
+NOR,2022,False,KOR,4.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,4.0,False,2025,New,Designated VIDAR by Norway,4.34,17.36,17.36
+NOR,2025,True,KOR,,False,CTM-MR,Hanwha Aerospace,missiles_guided_weapons,,False,,New,For use with Chunmoo multiple rocket launchers; delivery planned 2030-2031,0.0,0.0,0.0
+NOR,2025,False,KOR,24.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,New,NOK5.6 b ($550 m) deal; designated VIDAR by Norway; delivery planned 20027,4.34,104.16,0.0
+NOR,2025,True,KOR,100.0,True,CTM-500,Hanwha Aerospace,missiles_guided_weapons,,False,,New,For use with Chunmoo multiple rocket launchers; delivery planned 2030-2031; designation uncertain (reported as '500km range missiles for Chunmoo multiple rocket launchers'),0.0,0.0,0.0
+NOR,2025,True,KOR,,False,CGR-080 239mm,Hanwha Aerospace,missiles_guided_weapons,,False,,New,For use with Chunmoo multiple rocket launchers; delivery planned 2030-2031,0.08,0.0,0.0
+NOR,2025,True,KOR,16.0,False,K-239 Chunmoo,Hanwha Aerospace,artillery,,False,,New,NOK19 b ($2 b) deal (incl 120% offsets incl production of components in Norway); delivery planned 2028-2029; selected but not yet ordered by end-2025,2.2,35.2,0.0
+NZL,1986,False,KOR,1.0,False,Endeavour,HD Hyundai Heavy Industries,ships,1.0,False,1988,New,,53.5,53.5,53.5
+NZL,2016,False,KOR,1.0,False,Aotearoa,HD Hyundai Heavy Industries,ships,1.0,False,2020,New,NZD493 m ($348 m) deal,95.8,95.8,95.8
+PER,2012,False,KOR,20.0,False,KT-1 Woongbi,KAI,aircraft_uavs,20.0,True,2014; 2015; 2016; 2017,New,$200-208 m deal (incl production of components and assembly 16 assembled in Peru); incl 10 KT-1C and 10 KA-1 (KT-1P) versions,1.9,38.0,38.0
+PER,2024,False,KOR,2.0,False,HDL-1500,HD Hyundai Heavy Industries,ships,,False,,New,Part of KRW 641 b ($463 m) deal; produced under licence in Peru; delivery planned by 2027,0.0,0.0,0.0
+PER,2024,False,KOR,1.0,False,HDF-3600,HD Hyundai Heavy Industries,ships,,False,,New,Part of KRW 641 b ($463 m) deal; produced under licence in Peru; delivery planned by 2029,0.0,0.0,0.0
+PER,2024,False,KOR,1.0,False,HDP-2200,HD Hyundai Heavy Industries,ships,,False,,New,Part of KRW641 b ($463 m) deal; produced under licence in Peru; delivery planned by 2028,0.0,0.0,0.0
+PER,2024,False,KOR,30.0,False,K-808 White Tiger,Hyundai Rotem,armoured_vehicles,1.0,False,2025,New,$60m deal,0.4,12.0,0.4
+PER,2025,True,KOR,2.0,False,HDS-1500,HD Hyundai Heavy Industries,ships,,False,,New,Produced under licence in Peru,0.0,0.0,0.0
+PHL,2014,False,KOR,12.0,False,FA-50,KAI,aircraft_uavs,12.0,False,2015; 2016; 2017,New,PHP18-18.9 b ($360-430 m) deal; FA-50PH version,16.45,197.4,197.4
+PHL,2016,True,KOR,12.0,True,K-745 Blue Shark,LIG Nex1,missiles_guided_weapons,12.0,True,2019,New,For AW-159 anti-submarine helicopters,0.5,6.0,6.0
+PHL,2016,False,KOR,8.0,False,AAV-7A1,Hanwha Aerospace,armoured_vehicles,8.0,False,2019,New,PHP2.4 b ($46-53 m) deal,0.92,7.36,7.36
+PHL,2016,False,KOR,2.0,False,HHI-2600,HD Hyundai Heavy Industries,ships,2.0,False,2020; 2021,New,PHP15.7 b ($311 m) 'Deep Water Patrol Vessel' programme; Philippine designation Rizal,246.25,492.5,492.5
+PHL,2017,True,KOR,15.0,True,C-STAR,LIG Nex1,missiles_guided_weapons,15.0,True,2022,New,For HHI-2600 (Rizal) frigates,1.0,15.0,15.0
+PHL,2021,True,KOR,30.0,True,C-STAR,LIG Nex1,missiles_guided_weapons,30.0,True,2025,New,For HDC-3200 (Miguel Malvar) frigates,1.0,30.0,30.0
+PHL,2021,True,KOR,25.0,True,K-745 Blue Shark,LIG Nex1,missiles_guided_weapons,25.0,True,2025,New,For HDC-3200 (Miguel Malvar class) frigates,0.5,12.5,12.5
+PHL,2021,False,KOR,2.0,False,HDC-3200,HD Hyundai Heavy Industries,ships,2.0,False,2025,New,PHP28 b ($556 m; incl PHP3 b for ammunition) deal; designated Miguel Malvar class by Philippines,249.75,499.5,499.5
+PHL,2021,True,KOR,15.0,True,K-745 Blue Shark,LIG Nex1,missiles_guided_weapons,,False,,New,PHP722 m ($13 m) deal; for AW-159 anti-submarine helicopters and HHI-2600 (Rizal class) frigates,0.5,7.5,0.0
+PHL,2022,False,KOR,6.0,False,HHI-2400,HD Hyundai Heavy Industries,ships,,False,,New,$573 m deal; deisgnated Rajah Sulayman by Philippines; delivery planned 2026-2028,0.0,0.0,0.0
+PHL,2025,False,KOR,12.0,False,FA-50,KAI,aircraft_uavs,,False,,New,$700 m deal; FA-50PH version; delivery planned by 2030,16.45,197.4,0.0
+PHL,2025,False,KOR,2.0,False,HDC-3200,HD Hyundai Heavy Industries,ships,,False,,New,KRW850 b ($587 m) deal; designated Miguel Malvar class by Philippines; delivery planned by 2029,249.75,499.5,0.0
+POL,2014,False,KOR,24.0,False,K-9,Hanwha Aerospace,artillery,24.0,True,2016; 2017,New,KRW83 b ($80 m) deal; incl assembly/production under licence in Poland; for 24 Krab self-propelled guns produced in Poland,0.59,14.16,14.16
+POL,2016,False,KOR,96.0,False,K-9,Hanwha Aerospace,artillery,96.0,True,2018; 2019; 2020; 2021; 2022; 2023; 2024,New,KRW308 b ($260 m) deal; incl production under licence in Poland; for 96 Krab self-propelled guns produced in Poland,0.59,56.64,56.64
+POL,2022,False,KOR,36.0,False,FA-50 Block-20,KAI,aircraft_uavs,,False,,New,Part of PLN13 b ($3 b) deal; part of 'Harpia' programme; FA-50PL version; delivery planned 2027-2029,0.0,0.0,0.0
+POL,2022,False,KOR,180.0,False,K-2 Black Panther,Hyundai Rotem,armoured_vehicles,180.0,False,2022; 2023; 2024; 2025,New,$3.3 b deal; incl production under licence in Poland,5.0,900.0,900.0
+POL,2022,False,KOR,290.0,False,K-239 Chunmoo,Hanwha Aerospace,artillery,108.0,True,2023; 2024; 2025,New,'Homar-K' programme; produced under licence in Poland,2.2,638.0,237.6
+POL,2022,False,KOR,212.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,212.0,True,2022; 2023; 2024; 2025,New,USD2.4 b deal; incl production under licence in Poland; K-9A1 version,4.34,920.08,920.08
+POL,2022,False,KOR,12.0,False,FA-50,KAI,aircraft_uavs,12.0,False,2023,New,Part of PLN13 b ($3 b) deal; part of 'Harpia' programme; 12 FA-50GF (FA-50 Block-10) version; in production for South Korea but sold to Poland for fast delivery,16.45,197.4,197.4
+POL,2022,False,KOR,,False,CTM-290 KTSSM,Hanwha Aerospace,missiles_guided_weapons,30.0,True,2023; 2024; 2025,New,For use with K-239 Chunmoo multiple rocket launchers,1.4,0.0,42.0
+POL,2022,True,KOR,308.0,True,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,New,K-9A2 (K-9PL) version; produced under licence in Poland; selected but contract not yet signed by end-2025,4.34,1336.72,0.0
+POL,2022,True,KOR,10000.0,True,CGR-080 239mm,Hanwha Aerospace,missiles_guided_weapons,3600.0,True,2023; 2024; 2025,New,For use with K-239 Chunmoo multiple rocket launchers; incl production under licence in Poland,0.08,800.0,288.0
+POL,2023,False,KOR,152.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,New,USD2.6 b deal; incl production under licence in Poland; K-9A1 version; delivery planned by 2027,4.34,659.68,0.0
+POL,2025,False,KOR,10000.0,True,CGR-080 239mm,Hanwha Aerospace,missiles_guided_weapons,,False,,New,EUR3.3 b deal; for use with K-239 Chunmoo multiple rocket launchers; produced under licence in Poland; delivery planned 2030-2033,0.08,800.0,0.0
+POL,2025,False,KOR,87.0,False,K-9,Hanwha Aerospace,artillery,,False,,New,$280 m deal; incl production under licence in Poland; chassis for 87 Krab self-propelled guns produced in Poland,0.59,51.33,0.0
+POL,2025,False,KOR,180.0,False,K-2 Black Panther,Hyundai Rotem,armoured_vehicles,,False,,New,Part of $6.5 b deal; incl 116 K-2GF and 64 K-2PL versions; delivery planned 2026-2030,5.0,900.0,0.0
+POL,2025,True,KOR,640.0,True,K-2 Black Panther,Hyundai Rotem,armoured_vehicles,,False,,New,K-2PL version; incl production under licence in Poland; selected but not yet ordered by end-2025,5.0,3200.0,0.0
+POL,2025,False,KOR,25.0,False,K-2 BL,Hyundai Rotem,armoured_vehicles,,False,,New,Part of $6.5 b deal; delivery planned 2029-2031,0.0,0.0,0.0
+POL,2025,False,KOR,31.0,False,K-2 ARV,Hyundai Rotem,armoured_vehicles,,False,,New,Part of $6.5 b deal; delivery planned 2029-2031,0.0,0.0,0.0
+POL,2025,False,KOR,25.0,False,K-2 AEV,Hyundai Rotem,armoured_vehicles,,False,,New,Part of $6.5 b deal; delivery planned 2029-2031,0.0,0.0,0.0
+ROU,2023,False,KOR,250.0,False,Chiron,LIG Nex1,missiles_guided_weapons,250.0,True,2024; 2025,New,$90 m deal (incl 54 launchers),0.1,25.0,25.0
+ROU,2024,False,KOR,54.0,False,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,New,Part of $1 b deal; incl production under licence in Romania; delivery planned 2027-2029,4.34,234.36,0.0
+ROU,2024,False,KOR,36.0,False,K-10,Hanwha Aerospace,armoured_vehicles,,False,,New,Part of $1 b deal; incl production under licence in Romamia; delivery planned 2027-2029,0.39,14.04,0.0
+SAU,2017,True,KOR,150.0,False,KGGB,LIG Nex1,missiles_guided_weapons,150.0,True,2018,New,For Tornado and Eurofighter Typhoon combat aircraft,0.05,7.5,7.5
+SAU,2017,True,KOR,100.0,True,AT-1K Raybolt,LIG Nex1,missiles_guided_weapons,100.0,True,2018,New,,0.03,3.0,3.0
+SAU,2020,True,KOR,500.0,True,LOGIR,LIG Nex1,missiles_guided_weapons,500.0,True,2022; 2023,New,For FPB-2200 FAC,0.01,5.0,5.0
+SAU,2022,True,KOR,400.0,True,AT-1K Raybolt,LIG Nex1,missiles_guided_weapons,400.0,True,2023; 2024,New,,0.03,12.0,12.0
+SAU,2022,True,KOR,,False,Tigon,Hyundai Rotem,armoured_vehicles,4.0,True,2023; 2024,New,Command post version; probably for use with Chunmoo multiple rocket launchers,0.4,0.0,1.6
+SAU,2022,False,KOR,16.0,True,K-239 Chunmoo,Hanwha Aerospace,artillery,16.0,True,2023; 2024,New,KRW1 tr ($800 m) deal,2.2,35.2,35.2
+SAU,2024,False,KOR,10.0,False,Cheongung,LIG Nex1,air_defence_systems,,False,,New,$3.2 b deal; Cheongung Block-2 version; delivery planned from 2028,30.0,300.0,0.0
+SAU,2024,False,KOR,1000.0,True,Cheongung,LIG Nex1,missiles_guided_weapons,,False,,New,For 10 Cheongung SAM systems,0.6,600.0,0.0
+SEN,2016,False,KOR,4.0,False,KT-1 Woongbi,KAI,aircraft_uavs,4.0,True,2020,New,KA-1S armed version,1.9,7.6,7.6
+THA,2013,False,KOR,1.0,False,DW-3000,Hanwha Ocean,ships,1.0,False,2018,New,THB15 b ($466 m) deal; Thai designation Bhumibol Adulyadej,214.75,214.75,214.75
+THA,2015,False,KOR,4.0,False,T-50 Golden Eagle,KAI,aircraft_uavs,4.0,False,2018,New,THB3.7b ($100-117 m) deal; T-50TH version,17.8,71.2,71.2
+THA,2017,False,KOR,8.0,False,T-50 Golden Eagle,KAI,aircraft_uavs,8.0,True,2019; 2020,New,THB8.8 b ($259 m) deal; T-50TH version,17.8,142.4,142.4
+THA,2021,False,KOR,2.0,False,T-50 Golden Eagle,KAI,aircraft_uavs,2.0,False,2024,New,T-50TH version,17.8,35.6,35.6
+THA,2022,False,KOR,20.0,True,KGGB,LIG Nex1,missiles_guided_weapons,20.0,True,2023,New,For T-50 trainer/combat aircraft and F-16 combat aircraft,0.05,1.0,1.0
+TUR,2001,False,KOR,280.0,True,K-9 Thunder 155mm,Hanwha Aerospace,artillery,280.0,True,2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013,New,$1-1.2 b deal; produced under licence in Turkiye as T-155 Firtina or TUSpH Storm,4.34,1215.2,1215.2
+TUR,2007,False,KOR,40.0,False,KT-1 Woongbi,KAI,aircraft_uavs,40.0,True,2010; 2011; 2012,New,$400-500 m deal; KT-1T version; incl assembly in Turkiye,1.9,76.0,76.0
+TUR,2008,True,KOR,70.0,True,K-10,Hanwha Aerospace,armoured_vehicles,70.0,True,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020,New,Part of $998 m deal; produced under licence in Turkey; Turkish designation Firtina FAARV or POYRAZ MTS,0.39,27.3,27.3
+UKR,2022,False,KOR,54.0,False,K-9,Hanwha Aerospace,artillery,54.0,True,2022; 2023; 2024,New,Chassis for 54 Krab self-propelled guns from Poland; from production line in Poland,0.59,31.86,31.86
+VNM,2025,False,KOR,20.0,True,K-9 Thunder 155mm,Hanwha Aerospace,artillery,,False,,New,KRW346 b ($250 m) deal,4.5,90.0,0.0

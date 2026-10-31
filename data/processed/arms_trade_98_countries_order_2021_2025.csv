@@ -1,0 +1,31 @@
+﻿weapon_type_group_en,rank,weapon,tiv_order
+air_defence_systems,1,Arrow-3,2400.0
+air_defence_systems,2,Patriot Configuration-3,1529.0
+air_defence_systems,3,IRIS-T SL,1485.0
+aircraft_uavs,1,F-35A Lightning-2,21010.0
+aircraft_uavs,2,Rafale F-4,9600.0
+aircraft_uavs,3,P-8A Poseidon,3500.0
+armoured_vehicles,1,K-2 Black Panther,5000.0
+armoured_vehicles,2,M-1A2 SEPv-3 Abrams,1970.8
+armoured_vehicles,3,Eagle-5 4x4,652.5
+artillery,1,K-9 Thunder 155mm,4928.9
+artillery,2,HIMARS,1453.76
+artillery,3,K-239 Chunmoo,787.6
+engines,1,AL-31,780.0
+engines,2,F-404,712.8
+engines,3,F414,380.0
+missiles_guided_weapons,1,AIM-120D AMRAAM,3598.4
+missiles_guided_weapons,2,Arrow-3,3000.0
+missiles_guided_weapons,3,GMLRS,2546.21
+naval_weapons,1,Mk-41 VLS,540.0
+naval_weapons,2,Super Rapid Strales 76mm,150.0
+naval_weapons,3,VL-MICA-M,120.0
+other_systems_components,1,Guardian-30,412.8
+other_systems_components,2,Protector-MC,262.4
+other_systems_components,3,CV-90 D-series,122.0
+sensors_isr_satellites,1,EL/M-2052,510.0
+sensors_isr_satellites,2,Litening-5,351.0
+sensors_isr_satellites,3,MMR,344.5
+ships,1,Type-212,2750.0
+ships,2,Type-214,1650.0
+ships,3,FDI,1395.0

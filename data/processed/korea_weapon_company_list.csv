@@ -1,0 +1,81 @@
+﻿weapon,status,company,note
+LOGIR,New,LIG Nex1,
+K-239 Chunmoo,New,Hanwha Aerospace,
+Cheongung,New,LIG Nex1,
+Delos,New,HD Hyundai Heavy Industries,SIPRI 거래 주석의 'Australian designation Sirius'를 단서로 HMAS Sirius의 전신 MV Delos로 확인; 당시 Hyundai Mipo Dockyard 건조이며 현재 기업 기준 HD Hyundai Heavy Industries로 매핑
+K-9 Thunder 155mm,New,Hanwha Aerospace,동일 무기명에 신품·중고 거래가 모두 존재; 해당 행은 신품 거래
+K-10,New,Hanwha Aerospace,
+K-21,New,Hanwha Aerospace,
+Sea Dragon,New,HD Hyundai Heavy Industries,SIPRI 거래 주석의 'Bangladeshi designation Madhumati'를 단서로 BNS Madhumati로 확인; 당시 Hyundai Heavy Industries 건조로 확인되어 HD Hyundai Heavy Industries로 매핑
+DW-2000H,New,Hanwha Ocean,SIPRI 거래 주석의 'Bangladeshi designation Bangabandhu'를 단서로 BNS Bangabandhu로 확인; 당시 Daewoo Shipbuilding & Marine Engineering 건조이며 현재 기업 기준 Hanwha Ocean으로 매핑
+Sea Dolphin,Second hand,Korea Tacoma,한국 측 보유 함정의 중고 이전 거래; 기업의 신품 판매가 아닌 국가 간 이전 거래
+KH-178 105mm,New,Hyundai WIA,KH-178 제조기업 계보가 Kia 계열 → WIA → Hyundai WIA로 이어져 현재 기업 기준 Hyundai WIA로 매핑; 일부 SIPRI 거래는 중고 M-101A1 개조 가능성이 기록되어 있음
+KLTV,New,Kia,
+Donghae,Second hand,Government of the Republic of Korea,SIPRI 거래 주석의 'Colombian designation Narino'를 단서로 콜롬비아 ARC Narino로 이전된 전 한국 해군 함정으로 확인; 중고·원조 거래이므로 대한민국 정부 이전으로 매핑
+C-STAR,New,LIG Nex1,동일 무기명에 신품·중고 거래가 모두 존재; 해당 행은 신품 거래
+STX-250t,New,K Shipbuilding,
+C-STAR,Second hand,LIG Nex1,동일 무기명에 신품·중고 거래가 모두 존재; 해당 행은 중고 거래
+Po Hang,Second hand,Government of the Republic of Korea,한국 해군 보유 함정의 중고 이전 거래; 기업의 신품 판매가 아니므로 대한민국 정부 이전으로 매핑
+Haeuri,Second hand,Government of the Republic of Korea,한국 해군 보유 함정의 중고 이전 거래; 기업의 신품 판매가 아니므로 대한민국 정부 이전으로 매핑
+K-11,New,SNT Motiv,
+K-9 Thunder 155mm,Second hand,Hanwha Aerospace,동일 무기명에 신품·중고 거래가 모두 존재; 해당 행은 중고 거래
+Tide,New,Hanwha Ocean,SIPRI 거래 주석에서 영국 명칭이 Tide-class로 확인되어 해당 함정을 특정한 뒤 Hanwha Ocean으로 매핑
+PSMM-5,New,Korea Tacoma,SIPRI 거래 주석의 'Indonesian designation Mandau'를 단서로 Mandau급 미사일정으로 확인; Korea Tacoma Marine Industries 건조로 확인되어 매핑
+Alligator,New,Korea Tacoma,SIPRI 거래 주석의 'Teluk Semangka' 및 'Capana' 명칭을 단서로 해당 상륙함 계열을 확인; Korea Tacoma 건조로 확인되어 매핑
+LPD-122m,New,Dae Sun Shipbuilding & Engineering,
+Dong Yang-6,Second hand but modernized,Dae Sun Shipbuilding & Engineering,SIPRI 거래 주석의 'Indonesian designation Kambani'를 단서로 KRI Tanjung Kambani로 확인; 원래 타국 건조 민간선이며 Dae Sun Shipbuilding & Engineering에서 군용 수송함으로 개조·현대화하여 개조 수행 기업 기준으로 매핑
+KT-1 Woongbi,New,KAI,
+Barracuda,New,Hanwha Aerospace,당시 Daewoo Heavy Industries 계열에서 개발·생산 후 Doosan Infracore·Doosan DST로 이어진 장비; 기업 계보상 현재 Hanwha Aerospace로 매핑
+LVTP-7,Second hand,Government of the Republic of Korea,SIPRI 거래 주석에 'Second-hand; LVTP-7A1 version; aid'로 기록; 한국이 미국에서 도입해 운용하던 장비의 중고 원조 거래이므로 대한민국 정부 이전으로 매핑
+Black Fox,New,Hanwha Aerospace,SIPRI 거래 주석의 'Tarantula version'을 단서로 인도네시아 수출형 Tarantula 6x6로 확인; 당시 Doosan DST 계열 제품이며 현재 기업 기준 Hanwha Aerospace로 매핑
+KF-21 Boramae,New,KAI,
+Type-209/1400,New,Hanwha Ocean,
+KH-179 155mm,Second hand,Hyundai WIA,KH-179 제조기업 계보가 Kia 계열 → WIA → Hyundai WIA로 이어져 현재 기업 기준 Hyundai WIA로 매핑; 해당 SIPRI 거래 자체는 중고 거래
+T-50 Golden Eagle,New,KAI,
+Chiron,New,LIG Nex1,
+Sukhanya,New,Korea Tacoma,SIPRI 거래 주석상 일부 인도 현지 면허생산이 포함됨; 한국 건조분의 건조사를 Korea Tacoma로 확인하여 매핑
+Promoter,New,Daeji P&I,
+Hanwha-70 70mm,New,Hanwha Aerospace,당시 Hanwha Corporation 방산부문 제품으로 확인; 방산부문 기업 계보상 현재 Hanwha Aerospace로 매핑
+Hughes-500D/MD,Second hand,Korean Air,원제조사와 해당 거래의 한국 측 거래주체가 다름; 한국 측 거래주체 기준 Korean Air로 매핑
+Musytari,New,Korea Shipbuilding & Engineering Corporation,말레이시아 해군 자료에서 KD Musytari의 건조사를 Korea Shipbuilding Engineering Corporation으로 확인하여 매핑
+K-200 KIFV,New,Hanwha Aerospace,SIPRI 거래 주석의 말레이시아 명칭 'MIFV'와 거래연도를 대조해 해당 K-200 수출 거래를 확인; 당시 Daewoo 계열 생산품이며 기업 계보상 현재 Hanwha Aerospace로 매핑
+Gagah Samudera,New,Hanwha Ocean,
+FA-50 Block-20,New,KAI,
+AEGIR-18R,New,Hanwha Ocean,AEGIR-18R 건조계약 관련 거래주체로 Hanwha Ocean을 매핑; Hanwha Ocean이 해당 장비의 제조사라는 의미는 아님
+CTM-MR,New,Hanwha Aerospace,
+CTM-500,New,Hanwha Aerospace,
+CGR-080 239mm,New,Hanwha Aerospace,
+Endeavour,New,HD Hyundai Heavy Industries,뉴질랜드 해군 HMNZS Endeavour로 확인; 당시 Hyundai Heavy Industries가 건조·인도한 함정으로 확인되어 현재 HD Hyundai Heavy Industries로 매핑
+Aotearoa,New,HD Hyundai Heavy Industries,
+A-37B Dragonfly,Second hand,Government of the Republic of Korea,SIPRI 거래 주석에 'Second-hand; aid'로 기록; 한국 공군이 운용하던 미국산 A-37B의 중고·원조 이전 거래이므로 대한민국 정부 이전으로 매핑
+HDL-1500,New,HD Hyundai Heavy Industries,
+HDF-3600,New,HD Hyundai Heavy Industries,
+HDP-2200,New,HD Hyundai Heavy Industries,
+K-808 White Tiger,New,Hyundai Rotem,
+HDS-1500,New,HD Hyundai Heavy Industries,
+Haksaeng,Second hand,Government of the Republic of Korea,SIPRI 거래 주석의 'Philippine designation Yap'을 단서로 필리핀에 이전된 전 한국 해군 Haksaeng급으로 확인; 중고 국가 간 이전 거래이므로 대한민국 정부 이전으로 매핑
+F-5A Freedom Fighter,Second hand,Government of the Republic of Korea,SIPRI 거래 주석에 'Second-hand; aid'로 기록; 한국 공군이 운용하던 미국산 F-5A의 중고·원조 이전 거래이므로 대한민국 정부 이전으로 매핑
+Cessna-172,Second hand,Government of the Republic of Korea,SIPRI 거래 주석의 'T-41D version'을 단서로 해당 기체를 확인; 한국이 미국에서 도입해 운용하던 항공기의 중고 이전 거래이므로 대한민국 정부 이전으로 매핑
+LCU-1610,Second hand,Korea Tacoma,한국 측 보유 함정의 중고 이전 거래; 기업의 신품 판매가 아닌 국가 간 이전 거래
+FA-50,New,KAI,
+K-745 Blue Shark,New,LIG Nex1,
+AAV-7A1,New,Hanwha Aerospace,
+HHI-2600,New,HD Hyundai Heavy Industries,
+HDC-3200,New,HD Hyundai Heavy Industries,
+HHI-2400,New,HD Hyundai Heavy Industries,
+K-9,New,Hanwha Aerospace,
+K-2 Black Panther,New,Hyundai Rotem,
+CTM-290 KTSSM,New,Hanwha Aerospace,
+K-2 BL,New,Hyundai Rotem,
+K-2 ARV,New,Hyundai Rotem,
+K-2 AEV,New,Hyundai Rotem,
+KGGB,New,LIG Nex1,
+AT-1K Raybolt,New,LIG Nex1,
+Tigon,New,Hyundai Rotem,
+DW-3000,New,Hanwha Ocean,
+vehicle engine,New,HD Hyundai Infracore,SIPRI 거래 주석에서 실제 모델이 Hyundai Infracore DV-27K (1500hp) 디젤엔진으로 확인되어 HD Hyundai Infracore로 매핑
+M-114 155mm,Second hand,Government of the Republic of Korea,미국 제조 장비의 중고 이전 거래; 한국 제조기업의 판매가 아닌 대한민국 정부 거래로 추정하여 매핑
+M-101A1 105mm,Second hand,Government of the Republic of Korea,미국 제조 장비의 중고 이전 거래; 한국 제조기업의 판매가 아닌 대한민국 정부 거래로 추정하여 매핑
+M-30 107mm,Second hand,Government of the Republic of Korea,미국 제조 장비의 중고 이전 거래; 한국 제조기업의 판매가 아닌 대한민국 정부 거래로 추정하여 매핑
+Hawk-50,Second hand,Government of the Republic of Korea,SIPRI 한국 도입 거래의 'Hawk Mk-67 version'과 미국 수출 거래의 'US company for training'을 대조해 한국 공군 T-59(Hawk Mk.67)의 중고 이전 거래로 확인; 대한민국 정부 이전으로 매핑
+Boeing-747-8,Second hand,Korean Air,원제조사와 해당 거래의 한국 측 거래주체가 다름; 한국 측 거래주체 기준 Korean Air로 매핑

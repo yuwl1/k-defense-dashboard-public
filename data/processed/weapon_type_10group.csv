@@ -1,0 +1,207 @@
+﻿weapon_type,weapon_type_group,weapon_type_group_en
+ground-surveillance radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+air-search radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+anti-submarine helicopter,항공기·무인기,aircraft_uavs
+bomber aircraft,항공기·무인기,aircraft_uavs
+coastal defence system,미사일·유도무기,missiles_guided_weapons
+transport helicopter,항공기·무인기,aircraft_uavs
+anti-ship missile,미사일·유도무기,missiles_guided_weapons
+replenishment ship,함정,ships
+artillery locating radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+armed drone,항공기·무인기,aircraft_uavs
+turbofan,엔진·추진체계,engines
+fire-control radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+aircraft engine,엔진·추진체계,engines
+short-range air-to-air missile,미사일·유도무기,missiles_guided_weapons
+anti-tank missile,미사일·유도무기,missiles_guided_weapons
+tank,기갑차량,armoured_vehicles
+transport aircraft,항공기·무인기,aircraft_uavs
+minehunter,함정,ships
+fighter/ground-attack aircraft,항공기·무인기,aircraft_uavs
+towed gun,포병체계,artillery
+armoured supply vehicle,기갑차량,armoured_vehicles
+fire-support vehicle,기갑차량,armoured_vehicles
+surface-to-air missile,미사일·유도무기,missiles_guided_weapons
+surface-to-air missile system,방공체계,air_defence_systems
+multiple rocket launcher,포병체계,artillery
+armoured personnel carrier,기갑차량,armoured_vehicles
+self-propelled gun,포병체계,artillery
+surface-to-surface missile launcher,미사일·유도무기,missiles_guided_weapons
+helicopter,항공기·무인기,aircraft_uavs
+ship engine,엔진·추진체계,engines
+minesweeper,함정,ships
+amphibious assault ship,함정,ships
+training ship,함정,ships
+anti-ship/land-attack missile,미사일·유도무기,missiles_guided_weapons
+tank destroyer,기갑차량,armoured_vehicles
+fighter aircraft,항공기·무인기,aircraft_uavs
+light helicopter,항공기·무인기,aircraft_uavs
+light transport aircraft,항공기·무인기,aircraft_uavs
+armoured reconnaissance/fire-support vehicle,기갑차량,armoured_vehicles
+self-propelled anti-aircraft gun,방공체계,air_defence_systems
+combat helicopter,항공기·무인기,aircraft_uavs
+infantry fighting vehicle,기갑차량,armoured_vehicles
+corvette,함정,ships
+light aircraft,항공기·무인기,aircraft_uavs
+landing ship,함정,ships
+air/sea-search radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+mobile surface-to-air missile system,방공체계,air_defence_systems
+naval gun,해군용 무기체계,naval_weapons
+missile boat,함정,ships
+torpedo boat,함정,ships
+patrol boat,함정,ships
+(armed) trainer aircraft,항공기·무인기,aircraft_uavs
+mortar,포병체계,artillery
+trainer/combat aircraft,항공기·무인기,aircraft_uavs
+submarine,함정,ships
+anti-tank/air-to-surface missile,미사일·유도무기,missiles_guided_weapons
+light tank,기갑차량,armoured_vehicles
+frigate,함정,ships
+air-to-surface missile,미사일·유도무기,missiles_guided_weapons
+anti-ship/anti-submarine torpedo,미사일·유도무기,missiles_guided_weapons
+anti-ship torpedo,미사일·유도무기,missiles_guided_weapons
+sea-search radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+long-range air-to-air missile,미사일·유도무기,missiles_guided_weapons
+reconnaissance aircraft,항공기·무인기,aircraft_uavs
+trainer aircraft,항공기·무인기,aircraft_uavs
+air-search system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+anti-submarine torpedo,미사일·유도무기,missiles_guided_weapons
+infantry fighting vehicle turret,기타 체계·구성품,other_systems_components
+anti-submarine sonar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+gas turbine,엔진·추진체계,engines
+reconnaissance drone,항공기·무인기,aircraft_uavs
+heavy transport aircraft,항공기·무인기,aircraft_uavs
+height-finding radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+self-propelled air-defence system,방공체계,air_defence_systems
+self-propelled mortar,포병체계,artillery
+support ship,함정,ships
+ground surveillance aircraft,항공기·무인기,aircraft_uavs
+portable surface-to-air missile,미사일·유도무기,missiles_guided_weapons
+surface-to-surface missile,미사일·유도무기,missiles_guided_weapons
+armoured reconnaissance vehicle,기갑차량,armoured_vehicles
+maritime patrol aircraft,항공기·무인기,aircraft_uavs
+(armed) light helicopter,항공기·무인기,aircraft_uavs
+tanker/transport aircraft,항공기·무인기,aircraft_uavs
+turbojet,엔진·추진체계,engines
+armoured bridgelayer,기갑차량,armoured_vehicles
+tank turret,기타 체계·구성품,other_systems_components
+destroyer,함정,ships
+anti-submarine aircraft,항공기·무인기,aircraft_uavs
+armoured recovery vehicle,기갑차량,armoured_vehicles
+air-to-surface/anti-ship missile,미사일·유도무기,missiles_guided_weapons
+light/trainer aircraft,항공기·무인기,aircraft_uavs
+(armed) maritime patrol aircraft,항공기·무인기,aircraft_uavs
+self-propelled gun turret,기타 체계·구성품,other_systems_components
+maritime patrol aircraft radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+aircraft carrier,함정,ships
+cruiser,함정,ships
+tug,함정,ships
+patrol ship,함정,ships
+air-search/fire-control radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+naval surface-to-air missile system,해군용 무기체계,naval_weapons
+anti-aircraft gun,방공체계,air_defence_systems
+cargo ship,함정,ships
+signals intelligence system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+guided bomb,미사일·유도무기,missiles_guided_weapons
+ground surveillance radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+submarine sonar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+guided shell,미사일·유도무기,missiles_guided_weapons
+vehicle engine,엔진·추진체계,engines
+combat helicopter radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+anti-radar missile,미사일·유도무기,missiles_guided_weapons
+anti-ballistic missile missile,미사일·유도무기,missiles_guided_weapons
+signals intelligence aircraft,항공기·무인기,aircraft_uavs
+nuclear submarine,함정,ships
+air refuel system,기타 체계·구성품,other_systems_components
+guided glide bomb,미사일·유도무기,missiles_guided_weapons
+fighter/ground-attack/electronic warfare aircraft,항공기·무인기,aircraft_uavs
+minehunter/minesweeper,함정,ships
+airborne early-warning aircraft,항공기·무인기,aircraft_uavs
+aircraft electro-optical system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+guided rocket,미사일·유도무기,missiles_guided_weapons
+replenishment tanker,함정,ships
+tanker,함정,ships
+anti-submarine mortar,해군용 무기체계,naval_weapons
+aircraft reconnaissance system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+combat aircraft radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+armoured engineer vehicle,기갑차량,armoured_vehicles
+mortar turret,포병체계,artillery
+heavy transport helicopter,항공기·무인기,aircraft_uavs
+aircraft electro-optical/radar system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+ground-attack aircraft,항공기·무인기,aircraft_uavs
+helicopter turret,기타 체계·구성품,other_systems_components
+loitering munition,미사일·유도무기,missiles_guided_weapons
+surveillance satellite,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+air-to-surface/surface-to-surface missile,미사일·유도무기,missiles_guided_weapons
+electro-optical system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+multi-function radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+guided rocket/air-to-surface missile,미사일·유도무기,missiles_guided_weapons
+landing craft,함정,ships
+one-way attack drone,미사일·유도무기,missiles_guided_weapons
+turboprop,엔진·추진체계,engines
+transport ship,함정,ships
+anti-submarine rocket launcher,해군용 무기체계,naval_weapons
+(armed) transport helicopter,항공기·무인기,aircraft_uavs
+anti-ship helicopter,항공기·무인기,aircraft_uavs
+tank chassis,기갑차량,armoured_vehicles
+anti-submarine missile,미사일·유도무기,missiles_guided_weapons
+patrol ship/tug,함정,ships
+airborne early-warning radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+anti-radar/air-to-surface missile,미사일·유도무기,missiles_guided_weapons
+tank destroyer turret,기타 체계·구성품,other_systems_components
+armoured engineer/recovery vehicle,기갑차량,armoured_vehicles
+air/sea-search/fire-control radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+land-attack missile,미사일·유도무기,missiles_guided_weapons
+icebreaker,함정,ships
+frigate/landing ship,함정,ships
+minelayer,함정,ships
+airborne early-warning helicopter,항공기·무인기,aircraft_uavs
+anti-ship/anti-radar missile,미사일·유도무기,missiles_guided_weapons
+naval mine/torpedo,해군용 무기체계,naval_weapons
+airborne early-warning/ground surveillance aircraft,항공기·무인기,aircraft_uavs
+anti-aircraft gun turret,기타 체계·구성품,other_systems_components
+target tow aircraft,항공기·무인기,aircraft_uavs
+patrol ship/transport ship,함정,ships
+anti-aircraft gun/surface-to-air missile system,방공체계,air_defence_systems
+patrol ship/support ship,함정,ships
+anti-ballistic missile system,방공체계,air_defence_systems
+gunboat,함정,ships
+armoured personnel carrier/armoured supply vehicle,기갑차량,armoured_vehicles
+armed reconnaissance drone,항공기·무인기,aircraft_uavs
+anti-aircraft gun system,방공체계,air_defence_systems
+patrol boat/transport craft,함정,ships
+maritime patrol drone,항공기·무인기,aircraft_uavs
+signals intelligence helicopter,항공기·무인기,aircraft_uavs
+naval multiple rocket launcher,해군용 무기체계,naval_weapons
+anti-submarine/ship torpedo,미사일·유도무기,missiles_guided_weapons
+reconnaissance/signals intelligence system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+anti-ship/air-to-ground/surface-to-air missile,미사일·유도무기,missiles_guided_weapons
+support/landing ship,함정,ships
+anti-ship/air-to surface/surface-to-surface missile,미사일·유도무기,missiles_guided_weapons
+corvette/minesweeper,함정,ships
+electro-optical fire-control system,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+transport craft,함정,ships
+salvage ship,함정,ships
+support craft,함정,ships
+electronic warfare aircraft,항공기·무인기,aircraft_uavs
+reconnaissance/signals intelligence aircraft,항공기·무인기,aircraft_uavs
+transport aircraft/helicopter,항공기·무인기,aircraft_uavs
+patrol ship/training ship,함정,ships
+light aircraft/reconnaissance drone,항공기·무인기,aircraft_uavs
+patrol ship/frigate,함정,ships
+survey ship,함정,ships
+coastal defence gun,포병체계,artillery
+midget submarine,함정,ships
+signals intelligence ship,함정,ships
+self-propelled gun chassis,포병체계,artillery
+training tank,기갑차량,armoured_vehicles
+amphibious assault ship/frigate,함정,ships
+transport/trainer aircraft,항공기·무인기,aircraft_uavs
+(armed) reconnaissance drone,항공기·무인기,aircraft_uavs
+reconnaissance satellite,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+light transport airship,항공기·무인기,aircraft_uavs
+multi-role radar,센서·감시정찰(ISR)·위성,sensors_isr_satellites
+armed UGV,기갑차량,armoured_vehicles
+ship nuclear reactor,엔진·추진체계,engines
+patrol ship/icebreaker,함정,ships
+submarine-launched ballistic missile,미사일·유도무기,missiles_guided_weapons

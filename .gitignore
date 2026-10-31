@@ -1,0 +1,32 @@
+# 가상환경
+.venv/
+venv/
+
+# 환경변수 / API Key
+.env
+
+# Python 임시 파일
+__pycache__/
+*.pyc
+
+# Jupyter 임시 파일
+.ipynb_checkpoints/
+
+# VS Code 개인 설정
+.vscode/
+
+# 출처확인 후 제외
+# 원본
+data/raw/
+
+data/processed/arms_trade_98_countries.csv
+
+# LibreOffice 임시 잠금 파일 제외
+.~lock.*#
+
+# �߰� ȯ�溯�� ����
+.env.*
+!.env.example
+
+# Streamlit �������
+.streamlit/secrets.toml

@@ -1,0 +1,275 @@
+﻿sipri_country_name,iso_a3,category
+Afghanistan,AFG,country
+African Union**,,international_org
+Albania,ALB,country
+Algeria,DZA,country
+Amal (Lebanon)*,,non_state_or_unknown
+ANC (South Africa)*,,non_state_or_unknown
+Angola,AGO,country
+Anti-Castro rebels (Cuba)*,,non_state_or_unknown
+Antigua and Barbuda,ATG,country
+Argentina,ARG,country
+Armas (Guatemala)*,,non_state_or_unknown
+Armenia,ARM,country
+Aruba,ABW,country
+Australia,AUS,country
+Austria,AUT,country
+Azerbaijan,AZE,country
+Bahamas,BHS,country
+Bahrain,BHR,country
+Bangladesh,BGD,country
+Barbados,BRB,country
+Belarus,BLR,country
+Belgium,BEL,country
+Belize,BLZ,country
+Benin,BEN,country
+Bhutan,BTN,country
+Biafra,,country
+Bolivia,BOL,country
+Bosnia and Herzegovina,BIH,country
+Bosnia-Herzegovina,BIH,country
+Botswana,BWA,country
+Brazil,BRA,country
+Brunei,BRN,country
+Bulgaria,BGR,country
+Burkina Faso,BFA,country
+Burundi,BDI,country
+Cabo Verde,CPV,country
+Cambodia,KHM,country
+Cameroon,CMR,country
+Canada,CAN,country
+Cape Verde,CPV,country
+Central African Republic,CAF,country
+Chad,TCD,country
+Chile,CHL,country
+China,CHN,country
+Colombia,COL,country
+Comoros,COM,country
+Congo,COG,country
+"Congo, DR",COD,country
+"Congo, Republic",COG,country
+Contras (Nicaragua)*,,non_state_or_unknown
+Costa Rica,CRI,country
+Cote d'Ivoire,CIV,country
+Croatia,HRV,country
+Cuba,CUB,country
+Cyprus,CYP,country
+Czechia,CZE,country
+Czechoslovakia,CSK,former_state
+Darfur rebels (Sudan)*,,non_state_or_unknown
+Denmark,DNK,country
+Djibouti,DJI,country
+Dominican Republic,DOM,country
+DR Congo,COD,country
+East Germany (GDR),DDR,former_state
+Ecuador,ECU,country
+Egypt,EGY,country
+El Salvador,SLV,country
+ELF (Ethiopia)*,,non_state_or_unknown
+EPLF (Ethiopia)*,,non_state_or_unknown
+Equatorial Guinea,GNQ,country
+Eritrea,ERI,country
+Estonia,EST,country
+Eswatini,SWZ,country
+eSwatini,SWZ,country
+Ethiopia,ETH,country
+European Union,,international_org
+European Union**,,international_org
+FAN (Chad)*,,non_state_or_unknown
+Fiji,FJI,country
+Finland,FIN,country
+FMLN (El Salvador)*,,non_state_or_unknown
+FNLA (Angola)*,,non_state_or_unknown
+France,FRA,country
+FRELIMO (Portugal)*,,non_state_or_unknown
+Gabon,GAB,country
+Gambia,GMB,country
+"Gambia, The",GMB,country
+Georgia,GEO,country
+German Democratic Republic,DDR,former_state
+Germany,DEU,country
+Ghana,GHA,country
+Greece,GRC,country
+Grenada,GRD,country
+Guatemala,GTM,country
+Guinea,GIN,country
+Guinea-Bissau,GNB,country
+GUNT (Chad)*,,non_state_or_unknown
+Guyana,GUY,country
+Haiti,HTI,country
+Haiti rebels*,,non_state_or_unknown
+Hamas (Palestine)*,,non_state_or_unknown
+Hezbollah (Lebanon)*,,non_state_or_unknown
+Honduras,HND,country
+House of Representatives (Libya)*,,non_state_or_unknown
+Houthi rebels (Yemen)*,,non_state_or_unknown
+Hungary,HUN,country
+Iceland,ISL,country
+India,IND,country
+Indonesia,IDN,country
+Indonesia rebels*,,non_state_or_unknown
+Iran,IRN,country
+Iraq,IRQ,country
+Ireland,IRL,country
+Israel,ISR,country
+Italy,ITA,country
+Jamaica,JAM,country
+Japan,JPN,country
+Jordan,JOR,country
+Katanga,,country
+Kazakhstan,KAZ,country
+Kenya,KEN,country
+Khmer Rouge (Cambodia)*,,non_state_or_unknown
+"Korea, North",PRK,country
+"Korea, South",KOR,country
+Kosovo,XKX,country
+Kurdistan Regional Government (Iraq)*,,non_state_or_unknown
+Kuwait,KWT,country
+Kyrgyz Republic,KGZ,country
+Kyrgyzstan,KGZ,country
+Laos,LAO,country
+Latvia,LVA,country
+Lebanon,LBN,country
+Lebanon Palestinian rebels*,,non_state_or_unknown
+Lesotho,LSO,country
+LF (Lebanon)*,,non_state_or_unknown
+Liberia,LBR,country
+Libya,LBY,country
+Lithuania,LTU,country
+LRA (Uganda)*,,non_state_or_unknown
+LTTE (Sri Lanka)*,,non_state_or_unknown
+Luxembourg,LUX,country
+Madagascar,MDG,country
+Malawi,MWI,country
+Malaysia,MYS,country
+Maldives,MDV,country
+Mali,MLI,country
+Malta,MLT,country
+Mauritania,MRT,country
+Mauritius,MUS,country
+Mexico,MEX,country
+MNLF (Philippines)*,,non_state_or_unknown
+Moldova,MDA,country
+Mongolia,MNG,country
+Montenegro,MNE,country
+Morocco,MAR,country
+Mozambique,MOZ,country
+MPLA (Portugal)*,,non_state_or_unknown
+MTA (Myanmar)*,,non_state_or_unknown
+Mujahedin (Afghanistan)*,,non_state_or_unknown
+Myanmar,MMR,country
+Namibia,NAM,country
+NATO**,,international_org
+Nepal,NPL,country
+Netherlands,NLD,country
+New Zealand,NZL,country
+Nicaragua,NIC,country
+Niger,NER,country
+Nigeria,NGA,country
+NLA (Macedonia)*,,non_state_or_unknown
+North Korea,PRK,country
+North Macedonia,MKD,country
+North Yemen,YAR,former_state
+Northern Alliance (Afghanistan)*,,non_state_or_unknown
+Northern Cyprus,,country
+Norway,NOR,country
+NTC (Libya)*,,non_state_or_unknown
+Oman,OMN,country
+OSCE**,,international_org
+PAIGC (Portugal)*,,non_state_or_unknown
+Pakistan,PAK,country
+Palestine,PSE,country
+Palestinian Islamic Jihad (Israel/Palestine)*,,non_state_or_unknown
+Panama,PAN,country
+Papua New Guinea,PNG,country
+Paraguay,PRY,country
+Pathet Lao (Laos)*,,non_state_or_unknown
+Peru,PER,country
+Philippines,PHL,country
+PKK (Turkiye)*,,non_state_or_unknown
+PLO (Israel)*,,non_state_or_unknown
+Poland,POL,country
+Portugal,PRT,country
+PRC (Israel/Palestine)*,,non_state_or_unknown
+Provisional IRA (UK)*,,non_state_or_unknown
+Qatar,QAT,country
+Regional Security System**,,international_org
+Romania,ROU,country
+RPF (Rwanda)*,,non_state_or_unknown
+RSF (Sudan)*,,non_state_or_unknown
+RUF (Sierra Leone)*,,non_state_or_unknown
+Russia,RUS,country
+Rwanda,RWA,country
+Saint Kitts and Nevis,KNA,country
+Saint Vincent,VCT,country
+Saudi Arabia,SAU,country
+Senegal,SEN,country
+Serbia,SRB,country
+Seychelles,SYC,country
+Sierra Leone,SLE,country
+Singapore,SGP,country
+SLA (Lebanon)*,,non_state_or_unknown
+Slovakia,SVK,country
+Slovenia,SVN,country
+SNA (Somalia)*,,non_state_or_unknown
+Solomon Islands,SLB,country
+Somalia,SOM,country
+South Africa,ZAF,country
+South Korea,KOR,country
+South Sudan,SSD,country
+South Vietnam,VDR,former_state
+South Yemen,YMD,former_state
+Southern rebels (Yemen)*,,non_state_or_unknown
+Soviet Union,SUN,former_state
+Spain,ESP,country
+SPLA (Sudan)*,,non_state_or_unknown
+Sri Lanka,LKA,country
+Sudan,SDN,country
+Suriname,SUR,country
+Sweden,SWE,country
+Switzerland,CHE,country
+Syria,SYR,country
+Syria rebels*,,non_state_or_unknown
+Taiwan,TWN,country
+Tajikistan,TJK,country
+Tanzania,TZA,country
+Thailand,THA,country
+Timor Leste,TLS,country
+Timor-Leste,TLS,country
+Togo,TGO,country
+Tonga,TON,country
+Trinidad and Tobago,TTO,country
+Tunisia,TUN,country
+Turkiye,TUR,country
+Turkmenistan,TKM,country
+Türkiye,TUR,country
+Uganda,UGA,country
+UIC (Somalia)*,,non_state_or_unknown
+Ukraine,UKR,country
+Ukraine Rebels*,,non_state_or_unknown
+UNITA (Angola)*,,non_state_or_unknown
+United Arab Emirates,ARE,country
+United Kingdom,GBR,country
+United Nations**,,international_org
+United States,USA,country
+United States of America,USA,country
+United Wa State (Myanmar)*,,non_state_or_unknown
+unknown rebel group*,,non_state_or_unknown
+unknown recipient(s),,non_state_or_unknown
+unknown supplier(s),,non_state_or_unknown
+Uruguay,URY,country
+USSR,SUN,former_state
+Uzbekistan,UZB,country
+Vanuatu,VUT,country
+Venezuela,VEN,country
+Viet Cong (South Vietnam)*,,non_state_or_unknown
+Viet Minh (France)*,,non_state_or_unknown
+Viet Nam,VNM,country
+Western Sahara,ESH,country
+Yemen,YEM,country
+Yemen Arab Republic (North Yemen),YAR,former_state
+"Yemen, North",YAR,former_state
+Yugoslavia,YUG,former_state
+Zambia,ZMB,country
+ZAPU (Zimbabwe)*,,non_state_or_unknown
+Zimbabwe,ZWE,country
