@@ -6,7 +6,7 @@
 
 | 🔗 배포 | 📊 분석 대상 | 🗓 기간 | 🏢 기업 |
 |---|---|---|---|
-| `https://k-defense-dashboard.streamlit.app/` | 98개국 | 2016~2025 (점수 산정 2021~2025) | 한화에어로스페이스 · 한화오션 · 현대로템 · HD현대중공업 · LIG D&A · KAI |
+| [k-defense-dashboard.streamlit.app](https://k-defense-dashboard.streamlit.app/) | 98개국 | 2016\~2025 (점수 산정 2021\~2025) | 한화에어로스페이스 · 한화오션 · 현대로템 · HD현대중공업 · LIG D&A · KAI |
 
 <br>
 
@@ -24,7 +24,7 @@
 
 | 화면 | 이런 질문에 답합니다 | 주요 내용 |
 |---|---|---|
-| **메인 대시보드** | 세계 무기 시장은 어떻게 움직이나? | 거래·국방비 KPI, 무기체계별 거래 비중, 기업별 추천 후보국 1~3위 |
+| **메인 대시보드** | 세계 무기 시장은 어떻게 움직이나? | 거래·국방비 KPI, 무기체계별 거래 비중, 기업별 추천 후보국 1\~3위 |
 | **기업별 수출 기회 분석** | 우리 기업은 어디로 수출하면 좋을까? | 강점 무기체계·주요 무기, 2026년 수출 유망 국가 TOP 10, 가중치 커스텀 |
 | **무기체계별 수출국 추천** | 이 무기체계는 어느 나라가 많이 사나? | 글로벌 수입 비중·추이, 최대 수입국 TOP 5, 수출 추천 TOP 10, 주요 무기 TOP 3 |
 | **국가별 상세 분석** | 이 나라는 왜 이 순위인가? | 수출 후보 순위·적합도 점수, 6개 지표 레이더, 핵심 지표 5년 추이, 주요 공급국, 한국 기업 거래 이력 |
@@ -45,13 +45,13 @@
 | 무기 매칭도 | 기업과의 기존 방산 거래 이력 및 기업 강점 무기체계의 국가별 수요 (무기체계별 점수에서는 '무기 수요') | SIPRI Arms Transfers |
 | 협력 관계 | 한국과의 기존 방산 거래 이력 | SIPRI Arms Transfers |
 | GPI | 평화지수 — 안보 위협이 클수록(GPI가 높을수록) 무기 수요가 커 높은 점수 | Global Peace Index |
-| 신용도 | 국가 신용등급을 0~100점(9단계)으로 변환 | Fitch Ratings |
+| 신용도 | 국가 신용등급을 0\~100점(9단계)으로 변환 | Fitch Ratings |
 
 지표별 선정 근거 문헌은 [11. 참고문헌](#11-참고문헌)을 참고하세요.
 
 ### 3-2. 점수 계산
 
-1. 2021~2025년 데이터로 지표를 산출하고 98개국 기준 **0~100점으로 정규화** (치우친 분포는 로그 변환 후 정규화)
+1. 2021\~2025년 데이터로 지표를 산출하고 98개국 기준 **0\~100점으로 정규화** (치우친 분포는 로그 변환 후 정규화)
 2. **CRITIC 가중치** = 표준편차 × Σ(1 − 상관계수) → 정보량이 많고 다른 지표와 겹치지 않는 지표에 더 큰 비중
 3. 추천 점수 = Σ(지표 점수 × 가중치) → 2026년 순위
 4. 대시보드 '가중치 커스텀'에서 사용자가 비중을 바꾸면 같은 지표 점수로 즉시 재계산
@@ -73,12 +73,12 @@ World Bank·KOTRA      TIV 연도별 분배
 
 ## 4. 주요 결과
 
-- **수요는 3개 무기체계에 집중** — 98개국의 최근 5년(2021~2025) 무기 도입 TIV는 143,370이며, 항공기·무인기(40.5%), 미사일·유도무기, 함정 3개 체계가 71.3%를 차지합니다. 최대 수입국은 우크라이나(TIV 14,895)입니다.
+- **수요는 3개 무기체계에 집중** — 98개국의 최근 5년(2021\~2025) 무기 도입 TIV는 143,370이며, 항공기·무인기(40.5%), 미사일·유도무기, 함정 3개 체계가 71.3%를 차지합니다. 최대 수입국은 우크라이나(TIV 14,895)입니다.
 - **기업 강점에 따라 유망국이 갈림** — 지상·방공 기업(한화에어로스페이스·현대로템·LIG D&A)은 아랍에미리트·사우디아라비아·인도·폴란드, 조선 기업(한화오션·HD현대중공업)은 필리핀·인도네시아, KAI는 인도·미국·인도네시아가 2026년 상위 후보국입니다.
 - **추천 근거를 지표로 확인** — 한화에어로스페이스 기준 1위는 아랍에미리트(79.0점)이며, 폴란드(5위·74.7점)는 협력 관계·신용도는 만점이지만 GPI 점수(16.8)가 낮아 5위에 그칩니다.
 - **한국 수출과 글로벌 수요 비교** — 미사일·유도무기는 2025년 글로벌 수입 TIV 5,876 대비 한국 수출 TIV 285로, 수요 대비 진입 여지를 같은 기준으로 확인할 수 있습니다.
 
-> 추천 순위는 2021~2025년 공개 데이터 기반의 참고 결과이며, 실제 수주·계약을 예측한 확정치가 아닙니다.
+> 추천 순위는 2021\~2025년 공개 데이터 기반의 참고 결과이며, 실제 수주·계약을 예측한 확정치가 아닙니다.
 
 | 메인 대시보드 | 기업별 수출 기회 분석 |
 |---|---|
@@ -113,12 +113,12 @@ streamlit run app.py            # https://k-defense-dashboard.streamlit.app/
 
 | 데이터 | 제공 | 기간 | 저장소 포함 |
 |---|---|---|---|
-| Arms Transfers Database | SIPRI | 1950~2025 | 가공·집계 결과만 |
-| Military Expenditure Database | SIPRI | 1949~2025 | 가공 결과만 |
-| Global Peace Index 2026 | Institute for Economics & Peace | 2008~2026 | 가공 결과만 (CC BY-NC-SA 4.0) |
-| Sovereign Rating History | Fitch Ratings | 2012-06~2025-09 | 가공 결과만(0~100점 변환값)  |
-| GDP·GDP 디플레이터 | World Bank | 2015~2025 | 국방비 보완 결과만 |
-| 2030 방산수출 유망국가 | 산업연구원(KIET) | 2020~2024 | 인용 수치만 |
+| Arms Transfers Database | SIPRI | 1950\~2025 | 가공·집계 결과만 |
+| Military Expenditure Database | SIPRI | 1949\~2025 | 가공 결과만 |
+| Global Peace Index 2026 | Institute for Economics & Peace | 2008\~2026 | 가공 결과만 (CC BY-NC-SA 4.0) |
+| Sovereign Rating History | Fitch Ratings | 2012-06\~2025-09 | 가공 결과만(0\~100점 변환값)  |
+| GDP·GDP 디플레이터 | World Bank | 2015\~2025 | 국방비 보완 결과만 |
+| 2030 방산수출 유망국가 | 산업연구원(KIET) | 2020\~2024 | 인용 수치만 |
 | 국가정보 | KOTRA | 2026 | 가공 결과만(98개국 목록) |
 
 라이선스·이용 조건 전문: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) · 이미지 출처: `images/**/credits.csv` (대시보드 '데이터 출처' 화면에서도 확인)
@@ -188,7 +188,7 @@ k-defense-dashboard-public/
 | 팀원 | 임철홍 | DA | SIPRI & 무기체계 기업 수기 매핑표 구축, World Bank 지표 데이터 정제 및 분석 |
 | 팀원 | 송재근 | AA | Streamlit 대시보드 기획 및 가중합 스코어링 로직 연동 |
 | 팀원 | 안지영 | AA | Streamlit 대시보드 기획 및 가중합 스코어링 로직 연동 |
-| 팀원 | 유지원 | TA | 개발 환경 표준화 협업, Git, Streamlit 환경 관리, Cloud 배포 환경 구축 |
+| 팀원 | 유지원 | TA | 개발 환경 표준화 협업, Git, Streamlit 환경 관리 및 구축/배포 |
 
 > DA: Data Architect · AA: Application Architect · TA: Technical Architect
 
@@ -201,7 +201,7 @@ k-defense-dashboard-public/
 | 지표 | 근거 문헌 | 반영 근거 |
 |---|---|---|
 | HHI | Johnson, R. A. I. (2020). Decision-Making in the Arms of a Dependent Relationship: Explaining Shifts in Importer Acquisition Patterns of Major Weapon Systems, 1955–2007. *Defence and Peace Economics*, 31(7), 851–868. [doi](https://doi.org/10.1080/10242694.2019.1618651) | 특정 공급국 의존도가 높을수록 공급국을 바꾸지 않음 → 공급국 집중도를 신규 공급국(한국) 진입 가능성 지표로 사용 |
-| 국방비 | Tian, N., Ali, H., & Guiberteau Ricard, J. (2025). Determinants of the global arms imports: a revisit. *Defence and Peace Economics*. [doi](https://doi.org/10.1080/10242694.2025.2605954) | 143개국 1988~2023년 분석에서 군사비가 무기 수입과 일관된 (+) 관계 → 국방비 규모·부담·증가 추세 반영 |
+| 국방비 | Tian, N., Ali, H., & Guiberteau Ricard, J. (2025). Determinants of the global arms imports: a revisit. *Defence and Peace Economics*. [doi](https://doi.org/10.1080/10242694.2025.2605954) | 143개국 1988\~2023년 분석에서 군사비가 무기 수입과 일관된 (+) 관계 → 국방비 규모·부담·증가 추세 반영 |
 | 무기 매칭도 | Park, S., & Thakkar, C. (2025). Filling the weapons procurement gap in the Indo-Pacific: South Korean arms export to Indonesia and India. *Contemporary Security Policy*, 46(3), 613–640. [doi](https://doi.org/10.1080/13523260.2024.2441065) | 수출 성공은 성능보다 수입국 요구와의 부합도에 좌우 → 기업 강점 무기체계와 국가 수요의 매칭 반영 |
 | 협력 관계 | Thurner, P. W., Schmid, C. S., Cranmer, S. J., & Kauermann, G. (2019). Network Interdependencies and the Evolution of the International Arms Trade. *Journal of Conflict Resolution*, 63(7), 1736–1764. [doi](https://doi.org/10.1177/0022002718801965) | 과거 거래(SIPRI TIV)가 이후 거래에 지속적 (+) 영향 → 한국과의 기존 방산 거래 이력 반영 |
 | GPI | Tian et al. (2025), 위 문헌<br>Jang, Y., & Yang, J.-S. (2023). The Dynamics of the Global Arms Trade Network: States' Stability and Instability. *Defence and Peace Economics*, 34(7), 914–930. [doi](https://doi.org/10.1080/10242694.2022.2091610) | 분쟁·안보 위협과 대외적 불안정이 무기 수입 수요를 높임 → GPI를 안보 불안정의 대리지표로 사용 |
@@ -223,4 +223,4 @@ k-defense-dashboard-public/
 
 ## Feedback
 
-문의·제안은 GitHub Issues로 남겨 주세요. `https://github.com/yuwl1/k-defense-dashboard-public/issues`
+문의·제안은 GitHub Issues로 남겨 주세요. [GitHub Issues 바로가기](https://github.com/yuwl1/k-defense-dashboard-public/issues)
