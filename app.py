@@ -274,7 +274,7 @@ section[data-testid="stSidebar"] .st-key-sidebar_nav___ACTIVE__ a::after {
    4-5. 최하단 문구
 ------------------------------------------------------------ */
 section[data-testid="stSidebar"]::after {
-    content: "데이터로 읽는 방산시장,\\A근거로 찾는 수출 기회.";
+    content: "데이터로 읽는 방산시장,\\A근거로 찾는 수출 기회";
     position: absolute;
     left: 22px;
     right: 22px;

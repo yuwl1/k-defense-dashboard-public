@@ -1324,7 +1324,9 @@ with middle_tall_slot:
         st.html(_panel_heading(
             "수출 추천 TOP 10 국가", "images/common/etc/material-thumb_up.png", 25, "📋",
             tooltip="2021~2025년 데이터로 6개 지표(HHI·국방비·무기 수요·협력 관계·GPI·신용도)"
-                    "를 0~100점으로 바꾸고, 무기체계별 CRITIC 가중치를 곱해 추천 점수를 계산합니다.",
+                    "를 0~100점으로 바꾸고, 무기체계별 CRITIC 가중치를 곱해 추천 점수를 계산합니다."
+                    "\nHHI는 공급국이 다양할수록 높은 점수(MAX-MIN 역정규화), GPI는 지수가 높을수록 높은 점수입니다."
+                    "\n해군용 무기체계, 기타 체계·구성품 체계는 거래 표본이 희소하여 무기 소요 지표보다 다른 지표들을 중심으로 추천 순위가 산출되었습니다.",
         ))
         if selected_weapon is None:
             st.info("무기체계를 선택하면 수출 추천 TOP 10 국가가 표시됩니다.")

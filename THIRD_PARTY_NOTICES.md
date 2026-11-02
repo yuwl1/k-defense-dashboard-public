@@ -126,7 +126,13 @@ SOFTWARE.
 | NumPy | BSD 3-Clause |
 | Plotly | MIT |
 | Pillow | MIT-CMU (HPND) |
-| streamlit-plotly-events | MIT |
+| openpyxl | MIT |
+| Matplotlib | Matplotlib License (PSF 기반) |
+| SciPy | BSD 3-Clause |
+| statsmodels | BSD 3-Clause |
+| Requests | Apache License 2.0 |
+| pycountry | LGPL 2.1 |
+| IPython | BSD 3-Clause |
 | 기타 의존성 | 각 패키지의 라이선스 (`pip show <패키지명>`으로 확인) |
 
 지도 경계 데이터는 Plotly에 내장된 Natural Earth 데이터(Public Domain)를 사용합니다.
