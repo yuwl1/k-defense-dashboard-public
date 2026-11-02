@@ -188,7 +188,7 @@ k-defense-dashboard-public/
 | 팀원 | 임철홍 | DA | SIPRI & 무기체계 기업 수기 매핑표 구축, World Bank 지표 데이터 정제 및 분석 |
 | 팀원 | 송재근 | AA | Streamlit 대시보드 기획 및 가중합 스코어링 로직 연동 |
 | 팀원 | 안지영 | AA | Streamlit 대시보드 기획 및 가중합 스코어링 로직 연동 |
-| 팀원 | 유지원 | TA | 개발 환경 표준화 협업, Git, Streamlit 환경 관리 및 구축/배포 |
+| 팀원 | 유지원 | TA | 개발 환경 표준화 협업, Git, Streamlit 환경 구축 및 관리/배포 |
 
 > DA: Data Architect · AA: Application Architect · TA: Technical Architect
 
