@@ -97,7 +97,7 @@ World Bank·KOTRA      TIV 연도별 분배
 git clone https://github.com/yuwl1/k-defense-dashboard-public.git
 cd k-defense-dashboard-public
 
-python -m venv .venv
+py -3.11 -m venv .venv
 .venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
 
