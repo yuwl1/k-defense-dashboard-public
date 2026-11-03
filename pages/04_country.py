@@ -1010,7 +1010,7 @@ with left_radar:
             radar_notes = [
                 "각 지표를 98개국 기준 0~100점으로 바꾼 값입니다.",
                 " · ".join(f"{name} {radar_values[name]:.1f}" for name in RADAR_LABELS),
-                "HHI는 공급국이 다양할수록, GPI는 지수가 높을수록(안보 수요) 점수가 높습니다.",
+                "HHI는 공급국이 다양할수록 높은 점수(MAX-MIN 역정규화), GPI는 지수가 높을수록 높은 점수입니다.",
             ]
         else:
             radar_notes = ["점수 데이터를 불러오지 못했습니다."]
@@ -1021,7 +1021,8 @@ with left_radar:
 with right_metrics:
     # 레이더 카드 높이에 맞춰 자동 확장합니다. 고정 높이로 인한 스크롤은 없습니다.
     with st.container(border=True, height="stretch"):
-        stat_title("format_list_bulleted", "핵심 지표")
+        stat_title("format_list_bulleted", "핵심 지표",
+                   tooltip="무기 도입 TIV의 연도별 막대는 거래 TIV를 인도 기간에 균등배분한 근사치입니다.")
         metric_cols = st.columns(3, gap="small")
         expense = as_number(budget_latest.get("military_expenditure_usd")) if budget_latest is not None else None
         share = as_number(budget_latest.get("military_expenditure_gdp_pct")) if budget_latest is not None else None

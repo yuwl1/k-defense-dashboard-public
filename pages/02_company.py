@@ -1098,7 +1098,8 @@ with content_wrap:
                 card_title_html(
                     "top10", "2026년 수출 유망 국가 TOP 10",
                     tooltip="2021~2025년 데이터로 6개 지표(HHI·국방비·무기 매칭도·협력 관계·GPI·신용도)를 "
-                            "0~100점으로 바꾸고, 기업별 CRITIC 가중치를 곱해 추천 점수를 계산합니다.",
+                            "0~100점으로 바꾸고, \n기업별 CRITIC 가중치를 곱해 추천 점수를 계산합니다."
+                            "\nHHI는 공급국이 다양할수록 높은 점수(MAX-MIN 역정규화), GPI는 지수가 높을수록 높은 점수입니다.",
                 ),
                 unsafe_allow_html=True
             )
