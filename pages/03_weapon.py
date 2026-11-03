@@ -1303,6 +1303,7 @@ with right_top_slot:
         st.html(_panel_heading(
             "수입 추이 vs 한국 수출", "images/common/etc/material-monitoring.png",
             24, "📈", gap_bottom=2,
+            tooltip="연도별 값은 거래 TIV를 인도 기간에 균등배분한 근사치입니다.",
         ))
         if selected_weapon is None:
             st.info("무기체계를 선택하면 연도별 수입 및 한국 수출 추이가 표시됩니다.")
