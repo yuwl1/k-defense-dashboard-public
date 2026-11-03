@@ -1010,7 +1010,7 @@ with left_radar:
             radar_notes = [
                 "각 지표를 98개국 기준 0~100점으로 바꾼 값입니다.",
                 " · ".join(f"{name} {radar_values[name]:.1f}" for name in RADAR_LABELS),
-                "HHI는 공급국이 다양할수록, GPI는 지수가 높을수록(안보 수요) 점수가 높습니다.",
+                "HHI는 공급국이 다양할수록 높은 점수(MAX-MIN 역정규화), GPI는 지수가 높을수록 높은 점수입니다.",
             ]
         else:
             radar_notes = ["점수 데이터를 불러오지 못했습니다."]
