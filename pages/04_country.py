@@ -1021,7 +1021,8 @@ with left_radar:
 with right_metrics:
     # 레이더 카드 높이에 맞춰 자동 확장합니다. 고정 높이로 인한 스크롤은 없습니다.
     with st.container(border=True, height="stretch"):
-        stat_title("format_list_bulleted", "핵심 지표")
+        stat_title("format_list_bulleted", "핵심 지표",
+                   tooltip="무기 도입 TIV의 연도별 막대는 거래 TIV를 인도 기간에 균등배분한 근사치입니다.")
         metric_cols = st.columns(3, gap="small")
         expense = as_number(budget_latest.get("military_expenditure_usd")) if budget_latest is not None else None
         share = as_number(budget_latest.get("military_expenditure_gdp_pct")) if budget_latest is not None else None
