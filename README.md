@@ -4,9 +4,12 @@
 > 6개 핵심 지표와 CRITIC 가중치로 **국내 6개 방산기업 × 98개국**의 2026년 수출 유망 국가를 도출하여,  
 > 흩어진 공개 데이터를 찾고 비교하던 **시장조사 시간을 줄이는 것**을 목표로 합니다.
 
-| 🔗 배포 | 📊 &nbsp;분석 대상&nbsp; | 🗓 기간 | 🏢 기업 |
-|---|---|---|---|
-| [k-defense-dashboard.streamlit.app](https://k-defense-dashboard.streamlit.app/) | 98개국 | 2016\~2025 (점수 산정 2021\~2025) | 한화에어로스페이스 · 한화오션 · 현대로템 · HD현대중공업 · LIG D&A · KAI |
+| 항목 | 내용 |
+|:---:|---|
+| 🔗 **배포** | [k-defense-dashboard.streamlit.app](https://k-defense-dashboard.streamlit.app/) |
+| 📊 **분석 대상** | 98개국 |
+| 🗓 **기간** | 2016\~2025 (점수 산정 2021\~2025) |
+| 🏢 **기업** | 한화에어로스페이스 · 한화오션 · 현대로템 · HD현대중공업 · LIG D&A · KAI |
 
 <br>
 
